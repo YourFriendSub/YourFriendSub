@@ -10,7 +10,7 @@ Gender: `MALE`
 Timezone: `Indian Standard Time | IST | Asia/Kolkata`
 
 ---
-# Social Media:
+### Social Media Handles:
 Discord: @YourFriendSub
 - User ID: `1034691339280986132`
 <br>
