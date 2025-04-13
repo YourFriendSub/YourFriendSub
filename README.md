@@ -11,7 +11,7 @@ Timezone: `Indian Standard Time | IST | Asia/Kolkata`
 
 ---
 ### Social Media Handles:
-Discord: @YourFriendSub
+Discord: [@YourFriendSub](https://discord.com/users/1034691339280986132)
 - User ID: `1034691339280986132`
 <br>
 Twitter/X: @YourFriendSub
