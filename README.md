@@ -16,5 +16,6 @@ Discord: @YourFriendSub
 <br>
 Twitter/X: @YourFriendSub
 ---
+
 ### Contacts
 - You can contact me on my testing Discord Server [Qwerty](https://discord.com/invite/2gjARJxh9V).
