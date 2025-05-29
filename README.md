@@ -3,6 +3,8 @@ UserName: `yourfriendsub`
 <br>
 Internet Name: `Your Friend, Sub`
 <br>
+Real Name: `PRIVATE`
+<br>
 Age: `PRIVATE`
 <br>
 Gender: `MALE`
