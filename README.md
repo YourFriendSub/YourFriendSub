@@ -5,18 +5,20 @@ Internet Name: `Your Friend, Sub`
 <br>
 Real Name: `PRIVATE`
 <br>
-Age: `PRIVATE`
+Age: `18` | `30/06/2007`
 <br>
 Gender: `MALE`
 <br>
-Timezone: `Indian Standard Time | IST | Asia/Kolkata`
+Timezone: `Indian Standard Time` | `IST` | `Asia/Kolkata`
 
 ---
 ### Social Media Handles:
 Discord: [@YourFriendSub](https://discord.com/users/1034691339280986132)
 - User ID: `1034691339280986132`
 <br>
-Twitter/X: @YourFriendSub
+Twitter/X: `@YourFriendSub`
+<br>
+Reddit: `@YourFriendSub` | Suspended, I hate reddit now.
 ---
 
 ### Contacts
