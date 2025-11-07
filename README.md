@@ -19,7 +19,7 @@ Discord: [@YourFriendSub](https://discord.com/users/1034691339280986132)
 Twitter/X: `@YourFriendSub`
 <br>
 Reddit: `@YourFriendSub` | Suspended, I hate reddit now.
----
 
+---
 ### Contacts
 - You can contact me on my testing Discord Server [Qwerty](https://discord.com/invite/2gjARJxh9V).
