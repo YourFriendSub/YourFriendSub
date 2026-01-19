@@ -9,6 +9,11 @@
     <h3>Social Media Handles:</h3>
     <p>Discord: <a href="https://discord.com/users/1034691339280986132">@YourFriendSub</a></p>
     <p>User ID: <code>1034691339280986132</code></p>
+    <p>
+    <p>Telegram: <code>@YourFriendSub</code> | I'm a bit active there.</p>
+    <p>
+    <p>Signal: <code>@YourFriendSub</code> | I'm a bit active there as well.</p>
+    <p>
     <p>Twitter/X: <code>@YourFriendSub</code></p>
     <p>Reddit: <code>@YourFriendSub</code> | Suspended, I hate reddit now.</p>
     <hr>
